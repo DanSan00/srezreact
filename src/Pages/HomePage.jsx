@@ -1,4 +1,5 @@
 
+
 import { Catalogw } from "../components/catalog";
 import { Headerw } from "../components/header";
 import { Sliderw } from "../components/Slider";
